@@ -82,7 +82,7 @@ Este repositorio incluirá:
 
 Si tienes comentarios, sugerencias o simplemente quieres conectar conmigo, puedes contactarme:
 - 📧 **Correo electrónico**: rebeksaba@gmail.com 📩
-- 📸 **Mi instagram**: [rebeksaba](bit.ly/rebeksaba)🌍
+- 📸 **Mi instagram**: [rebeksaba](bit.ly/rebeksaba) 🌍
 - 💻 **Instagram CozyKeyStore**: [Cozykey](http://bit.ly/4kuX63Q) ✨
 
 ---
