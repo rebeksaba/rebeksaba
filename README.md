@@ -1,9 +1,10 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <h1 style="font-size:3em; margin:0;">Hola a tod@s 👋</h1>
+<div style="text-align: center; margin-bottom: 20px;">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzIzdzhxaXR3amJ4dGp0eWF4eWJuNGo5a21qa3BsNWduYzhqZG9qMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgIc0lryrxvqVGM/giphy.gif" 
-       alt="GIF lindo" width="150" 
-       style="margin-left:20px; border-radius:50%;"/>
+       alt="GIF lindo" width="300" 
+       style="border-radius:50%;"/>
 </div>
+
+<h1 style="text-align: center; font-size: 3em; margin-top: 0;">Hola a tod@s 👋</h1>
 
 <p>✨ Bienvenid@ a mi repositorio personal de aprendizaje en Desarrollo de Aplicaciones Web (DAW)! Este espacio está creado para documentar mi progreso, proyectos y prácticas a lo largo del curso, con la idea de construir un portafolio para el futuro. 🌱</p>
 
@@ -42,6 +43,4 @@ Durante el curso exploraré diferentes tecnologías y herramientas, como:
 Si tienes comentarios, sugerencias o simplemente quieres conectar conmigo, puedes contactarme:
 - 📧 **Correo electrónico**: rebeksaba@gmail.com 📩
 - 💻 **Instagram CozyKeyStore**: [Cozykey](http://bit.ly/4kuX63Q) ✨
-
----
 
