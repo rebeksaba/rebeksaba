@@ -44,3 +44,14 @@ Si tienes comentarios, sugerencias o simplemente quieres conectar conmigo, puede
 - 📧 **Correo electrónico**: rebeksaba@gmail.com 📩
 - 💻 **Instagram CozyKeyStore**: [Cozykey](http://bit.ly/4kuX63Q) ✨
 
+---
+
+---
+
+<div style="text-align: center; margin-top: 30px;">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDd0Mzl3bTh2bTd5OG52cThrbGJxYWFhYjF1YWl4ZzBoNTc3cHhreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oJGg8QwlGs5r5ZZKxt/giphy.gif" 
+       alt="Sticker de despedida" width="300" 
+       style="border-radius: 20px;"/>
+  <p style="font-size: 1.5em; font-weight: bold; margin-top: 10px;">¡Gracias por visitar mi repositorio! 🌟</p>
+</div>
+
