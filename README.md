@@ -1,4 +1,6 @@
-## Hola a tod@s 👋
+<p align="left">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTAzNGN1d2lwZ2FzOXNyMXYzN3ZyZmk4dGwxZmM4ajljcnV3cHdzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" alt="GIF lindo" width="200"/>
+</p> ## Hola a tod@s 👋
 Bienvenid@ a mi repositorio personal de aprendizaje en Desarrollo de Aplicaciones Web (DAW)! Este espacio está creado para documentar mi progreso, proyectos y prácticas a lo largo del curso, con la idea de construir un portafolio para el futuro.
 
 ## Sobre mí 🔭
@@ -10,7 +12,7 @@ Soy Rebeca Sánchez, alumna de Prometeo del Grado Superior de DAW. Después de t
 
 - **Vida laboral actual**: Desde hace 5 años estoy trabajando en una empresa dedicada al sector informático, en la que vendemos ordenadores reacondicionados y componentes.
 
-##Contenido del Repositorio
+## Contenido del Repositorio
 
 Este repositorio incluirá:
 
